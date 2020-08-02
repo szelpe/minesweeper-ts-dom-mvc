@@ -1,0 +1,16 @@
+.field {
+    width: 20px;
+    height: 20px;
+    border: solid thin black;
+    font-family: Verdana;
+    line-height: 20px;
+    text-align: center;
+}
+
+.exploded {
+    background: red;
+}
+
+.mine {
+    background: black;
+}
